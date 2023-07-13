@@ -1,0 +1,15 @@
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\bin\Debug\net7.0\ThirdHomeWork.exe
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\bin\Debug\net7.0\ThirdHomeWork.deps.json
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\bin\Debug\net7.0\ThirdHomeWork.runtimeconfig.json
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\bin\Debug\net7.0\ThirdHomeWork.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\bin\Debug\net7.0\ThirdHomeWork.pdb
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.csproj.AssemblyReference.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.AssemblyInfoInputs.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.AssemblyInfo.cs
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\refint\ThirdHomeWork.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.pdb
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ThirdHomeWork.genruntimeconfig.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\ThirdHomeWork\obj\Debug\net7.0\ref\ThirdHomeWork.dll
